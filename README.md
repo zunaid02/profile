@@ -262,6 +262,7 @@ font-size: large;
             Spring Security, Lombok
             </li></ul>
             </div>
+	    <br/>
     <p class="rcorners">
     <b>Scripting and Front End Frameworks/Libraries:</b> HTML 5, React 17, Angular 9, NodeJS, Javascript, Bootstrap, CSS 3, JQuery
     </p>
