@@ -65,7 +65,7 @@ ul{
 }
 
 li{
-/*	padding: 10px 10px 10px 10px;*/
+	padding: 10px 10px 10px 10px;
 	border-width: 0px 0px 2px 0px;
 	border-style: dotted;
 	border-color: #7f39c0;
@@ -184,7 +184,7 @@ font-size: large;
 </head>
 <body>
 <div class="nowrap">
-    <div class="" style="border-style:solid; border-width:0 0 0 0; border-color:#7f39c0;float:left;  width: 20%;">
+    <div class="" style="border-style:solid; border-width:0 0 0 0; border-color:#7f39c0;float:left;  width: 20%;position: fixed">
           <div class="centered" style="border-width: 0px 0px 2px 0px;border-style: solid; border-color:#7f39c0;" >
             <img src="profile.png" alt="Profile Image">
             <h3>Zunaid Dingankar</h3>
@@ -201,7 +201,7 @@ font-size: large;
           </div>
     </div>
 
-  <div class="right" style="width:80%;float:right;border-style:solid; border-width:0 0 0 0px; border-color:#7f39c0;background-color: #f0e4f7" tabindex="0" >
+  <div class="right" style="width:80%;float:right;border-style:solid; border-width:0 0 2px 0px; border-color:#7f39c0;" tabindex="0" >
     <div class="content" id="rtContent">
     <!-- About me section -->
     <div id="list-item-1" class="listTitle">
