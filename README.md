@@ -192,7 +192,7 @@ font-size: large;
           <div style="position: relative">
             <ul>
               <li><i class="fa fa-address-card" style="font-size:24px; padding-right:5px"></i><a class="list-group-item list-group-item-action" href="#list-item-1">About Me</a></li>
-              <li><i class="fa fa-commenting" style="font-size:24px; padding-right:5px"></i><a class="list-group-item list-group-item-action" href="#list-item-2">Roles &amp; Responsibilities</a></li>
+              <li><i class="fa fa-commenting" style="font-size:24px; padding-right:5px"></i><a class="list-group-item list-group-item-action" href="#list-item-2">Current Responsibilities</a></li>
               <li><i class="fa fa-signal" style="font-size:24px; padding-right:5px"></i><a class="list-group-item list-group-item-action" href="#list-item-3">Skills</a></li>
               <li><i class="fa fa-th-large" style="font-size:24px; padding-right:5px" ></i><a class="list-group-item list-group-item-action" href="#list-item-4">Work Experience</a></li>
               <li><i class="fa fa-graduation-cap" style="font-size:24px; padding-right:5px"></i><a class="list-group-item list-group-item-action" href="#list-item-5">Qualification</a></li>
@@ -215,7 +215,7 @@ font-size: large;
 
     <!-- Roles and responsibilities section -->
     <div id="list-item-2" class="listTitle">
-    <h2>ROLES &amp; RESPONSIBILITIES</h2>
+    <h2>CURRENT RESPONSIBILITIES</h2>
             <div class="rcorners">  
                 <ul style="list-style-type: disc;">
             <li style="border-style: none;">Work with sales team to address specific functional and NFR aspects of RFP.</li>
