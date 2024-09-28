@@ -505,7 +505,3 @@ function showNextSlides(n) {
 }
 </script>     
 
-
-
-</body>
-</html> 
