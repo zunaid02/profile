@@ -184,7 +184,7 @@ font-size: large;
 </head>
 <body>
 <div class="nowrap">
-    <div class="" style="border-style:solid; border-width:0 0 0 0; border-color:#7f39c0;float:left;  width: 20%;min-height:100vh; position: fixed">
+    <div class="" style="border-style:solid; border-width:0 0 0 0; border-color:#7f39c0;float:left;  width: 20%; position: fixed">
           <div class="centered" style="border-width: 0px 0px 2px 0px;border-style: solid; border-color:#7f39c0;" >
             <img src="profile.png" alt="Profile Image">
             <h3>Zunaid Dingankar</h3>
@@ -435,9 +435,6 @@ font-size: large;
     </div>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <p style="font-size:4; width:100%;text-align:center;"><b>Note:</b> The profile was last updated on September, 2024.</p>
-  </div>
-
-</div>
 
 <script>
 
