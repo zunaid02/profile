@@ -65,7 +65,7 @@ ul{
 }
 
 li{
-	padding: 10px 10px 10px 10px;
+	padding: 3px 3px 3px 3px; 
 	border-width: 0px 0px 2px 0px;
 	border-style: dotted;
 	border-color: #7f39c0;
@@ -204,14 +204,14 @@ font-size: large;
   <div class="right" style="width:80%;float:right;border-style:solid; border-width:0 0 2px 0px; border-color:#7f39c0;" tabindex="0" >
     <div class="content" id="rtContent">
     <!-- About me section -->
-    <div id="list-item-1" class="listTitle">
-    <h2 class="listTitle">ABOUT ME</h2>
-    <p class="rcorners">    
-    IT professional, having <b>16+ years</b> of industry experience, with proven track record in delivering innovative business solutions for various clients. 
-    Skilled in enterprise architecture, system design and development, service-oriented implementation, identity management, Single Sign On implementation and requirement evaluation for business application integration.
-    <br/>Would like to be a part of an esteemed organization that provides me with opportunities to contribute with the best of my skills and grow along with the organization.
-    </p>	
-    </div>
+	    <div id="list-item-1" class="listTitle">
+	    <h2 class="listTitle">ABOUT ME</h2>
+	    <p class="rcorners">    
+	    IT professional, having <b>16+ years</b> of industry experience, with proven track record in delivering innovative business solutions for various clients. 
+	    Skilled in enterprise architecture, system design and development, service-oriented implementation, identity management, Single Sign On implementation and requirement evaluation for business application integration.
+	    <br/>Would like to be a part of an esteemed organization that provides me with opportunities to contribute with the best of my skills and grow along with the organization.
+	    </p>	
+	    </div>
 
     <!-- Roles and responsibilities section -->
     <div id="list-item-2" class="listTitle">
@@ -226,7 +226,8 @@ font-size: large;
             <li style="border-style: none;">Partner with Domain & Technology Specialists to implement innovative solutions.</li>
             <li style="border-style: none;">Collaborate with the Service Leads to identify feature gaps, automation opportunities & help achieve operational excellemce.</li>
             <li style="border-style: none;">Work with development stakeholders to ensure consistent high quality delivery by enhancing quality matrices.</li>
-
+	</div>
+ </div>
     <!-- skills section -->
     <div id="list-item-3" class="listTitle">
     <h2>SKILLS</h2>
