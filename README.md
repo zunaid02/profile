@@ -60,8 +60,8 @@ a{
 
 ul{
 	list-style: none;
-	padding: 0 0 0 0;
     margin-top: 0px;
+    padding-left: 0em!important;
 }
 
 li{
