@@ -96,8 +96,8 @@ font-size: large;
 
 /* Slideshow container */
 .slideshow-container {
-  min-width: 90%;
-  max-width: 90%;
+  min-width: 100%;
+  max-width: 100%;
   position: relative;
   margin: auto;
 }
@@ -284,7 +284,7 @@ font-size: large;
             <li style="border-style: none;"><u>Code quality tools:</u> SonarQube, Checkmarx, Burp, Webscan, Fortify, Fiddler, Wireshark, Control-M</li>
             <li style="border-style: none;"><u>System Integration Product:</u> Mulesoft ESB, Informatica, Software AG API Gateway, MQ Server, AWS Managed Kafka</li>
             <li style="border-style: none;"><u>Security Protocols:</u> SAML 2.0, OAuth 2</li>
-            </div>
+	    </ul> </div>
     </div>
     
      <!-- Work experience section -->
