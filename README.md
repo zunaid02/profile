@@ -184,7 +184,7 @@ font-size: large;
 </head>
 <body>
 <div class="nowrap">
-    <div class="" style="border-style:solid; border-width:0 0 0 0; border-color:#7f39c0;float:left;  width: 16%;position: fixed">
+    <div class="" style="border-style:solid; border-width:0 0 0 0; border-color:#7f39c0;float:left;  width: 15%;position: fixed">
           <div class="centered" style="border-width: 0px 0px 2px 0px;border-style: solid; border-color:#7f39c0;" >
             <img src="profile.png" alt="Profile Image">
             <h3>Zunaid Dingankar</h3>
@@ -226,7 +226,7 @@ font-size: large;
             <li style="border-style: none;">Partner with Domain & Technology Specialists to implement innovative solutions.</li>
             <li style="border-style: none;">Collaborate with the Service Leads to identify feature gaps, automation opportunities & help achieve operational excellemce.</li>
             <li style="border-style: none;">Work with development stakeholders to ensure consistent high quality delivery by enhancing quality matrices.</li>
-	</div>
+	</ul></div>
  </div>
     <!-- skills section -->
     <div id="list-item-3" class="listTitle">
