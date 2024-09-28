@@ -30,12 +30,10 @@ body {
 }
 
 .centered {
-
   top: 5%;
   left: 10%;
 /*  transform: translate(-50%, -50%);
   text-align: center;*/
-  padding-left: 30px;
 }
 
 .centered img {
