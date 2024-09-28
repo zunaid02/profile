@@ -226,8 +226,6 @@ font-size: large;
             <li style="border-style: none;">Partner with Domain & Technology Specialists to implement innovative solutions.</li>
             <li style="border-style: none;">Collaborate with the Service Leads to identify feature gaps, automation opportunities & help achieve operational excellemce.</li>
             <li style="border-style: none;">Work with development stakeholders to ensure consistent high quality delivery by enhancing quality matrices.</li>
-            </div>	
-    </div>
 
     <!-- skills section -->
     <div id="list-item-3" class="listTitle">
