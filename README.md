@@ -45,7 +45,7 @@ body {
 }
 
 .content{
- padding-left: 20px;
+/* padding-left: 20px;  */
 }
 
 h2{
