@@ -183,7 +183,7 @@ font-size: large;
 </style>
 </head>
 <body>
-<div class="nowrap">
+<div class="nowrap" id="topContainer">
     <div class="" style="border-style:solid; border-width:0 0 0 0; border-color:#7f39c0;float:left;  width: 15%;position: fixed">
           <div class="centered" style="border-width: 0px 0px 2px 0px;border-style: solid; border-color:#7f39c0;" >
             <img src="profile.png" alt="Profile Image">
@@ -437,7 +437,6 @@ font-size: large;
 <p style="font-size:4; width:100%;text-align:center;"><b>Note:</b> The profile was last updated on September, 2024.</p>
 
 <script>
-
 // grab elements
 var allListItems=document.getElementById('rtContent').getElementsByTagName('div');
 // and then make each element do something on scroll
@@ -499,6 +498,19 @@ function showNextSlides(n) {
   }
   slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active";
+}
+
+
+var queryParam=new URLSearchParams(window.location.search);
+if(! queryParam.has('id')){
+ console.log('no id param');
+  document.getElementById('topContainer').innerHTML='<h3>The page you are looking for is not found.</h3>';
+}else{
+ const qval=queryParam.get('id');
+ console.log(qval);
+ if(qval != 'ae21q-jtuc9-rma0l-54gys'){
+ document.getElementById('topContainer').innerHTML='<h3>The page you are looking for is not found.</h3>';
+ }
 }
 </script>     
 
