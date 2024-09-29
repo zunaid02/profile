@@ -1,3 +1,5 @@
+layout: page
+title: "Profile"
 <html>
 <head>
 <title>Profile Page</title>
