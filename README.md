@@ -513,6 +513,7 @@ if(! queryParam.has('id')){
  document.getElementById('topContainer').innerHTML='<h3>The page you are looking for is not found.</h3>';
  }
 }
+console.log(page.title);
 </script>     
 </body>
 </html>
